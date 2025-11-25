@@ -1,1 +1,20 @@
-# test-portfolio
+*Projeto Iniciante*
+
+Este repositório foi criado apenas para fins de estudo e aprendizado, com base em um projeto original de "https://www.youtube.com/@canaldevclub".
+
+🧠 Sobre
+
+O portfólio em questão é uma cópia do projeto original, feita para aperfeiçoamento e prática pessoal.
+
+👨‍💻 Desenvolvido por
+Julio Petrizzo — apenas para fins educacionais.
+
+📚 Objetivo
+
+Reproduzir e compreender a estrutura de um portfólio utilizando HTML5 e CSS3, visando aprender e evoluir cada vez mais com foco em boas práticas, semântica e organização de código.
+
+🧩 Tecnologias utilizadas
+
+HTML5
+
+CSS3
