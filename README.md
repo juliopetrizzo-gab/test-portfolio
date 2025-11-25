@@ -1,6 +1,6 @@
 *Projeto Iniciante*
 
-Este repositório foi criado apenas para fins de estudo e aprendizado, com base em um projeto original de "https://www.youtube.com/@canaldevclub".
+Este repositório foi criado apenas para fins de estudo e aprendizado, com base em um projeto original de "https://www.youtube.com/@procoder09".
 
 🧠 Sobre
 
