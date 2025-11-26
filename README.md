@@ -31,6 +31,6 @@ Discente: Julio César Albuquerque do Nascimento
 
 Curso: Análise e Desenvolvimento de Sistemas/1° Período
 
-Link do projeto no Site hospedeiro: 
+Link do projeto no Site hospedeiro: https://personal-test-portfolio.netlify.app/
 
 
