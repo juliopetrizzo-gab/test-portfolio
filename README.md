@@ -1,10 +1,10 @@
 *Projeto Iniciante*
 
-Este repositório foi criado apenas para fins de estudo e aprendizado, com base em um projeto original de "https://www.youtube.com/@procoder09".
+Este repositório foi criado apenas para fins de estudo e aprendizado.
 
 🧠 Sobre
 
-O portfólio em questão é uma cópia do projeto original, feita para aperfeiçoamento e prática pessoal.
+O portfólio em questão foi feito para aperfeiçoamento e prática pessoal.
 
 👨‍💻 Desenvolvido por
 Julio Petrizzo — apenas para fins educacionais.
@@ -18,3 +18,5 @@ Reproduzir e compreender a estrutura de um portfólio utilizando HTML5 e CSS3, v
 HTML5
 
 CSS3
+
+FONT AWESOME
