@@ -13,6 +13,7 @@
 
 html{
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 body{
@@ -144,6 +145,135 @@ span{
 .home-img img:hover{
     font-size: 1.8rem;
     font-weight: 500;
+}
+
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.about-img{
+    border-radius: 50%;
+}
+
+.about-img img{
+    border-radius: 30%;
+    width: 40vh;
+    box-shadow: 0 0 25px solid rgb(88, 91, 91);
+    cursor: pointer;
+    transition: 0.2s linear;
+}
+
+.about-img img:hover{
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.heading{
+    font-size: 6rem;
+    text-align: center;
+}
+
+.about-content{
+    padding: 0 4rem;
+}
+
+.about-content h2{
+    text-align: left;
+    line-height: 1.2;
+}
+
+.about-content h3{
+    font-size: 3rem;
+}
+
+.about-content p{
+    font-size: 1.6rem;
+    margin: 2rem 0 3rem;
+}
+
+.services h2{
+    margin-bottom: 5rem;
+}
+
+.services-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.services-container .services-box{
+    flex: 1 1 30rem;
+    background-color: rgb(47, 46, 46);
+    padding: 6rem 2rem 6rem;
+    border-radius: 2rem;
+    text-align: center;
+    border: 0.3rem solid rgb(88, 91, 91);;
+    transition: 0.3s ease;
+}
+
+.services-container .services-box:hover{
+    border-color: rgb(255, 255, 255);
+}
+
+.services-box h3{
+    font-size: 2.6rem;
+    color: rgb(0, 0, 0);
+}
+
+.services-box p{
+    font-size: 1.6rem;
+    margin: 1rem 0 3rem;
+}
+
+.contact{
+    background-color: rgb(47, 46, 46);
+    margin-top: 100px;
+    border-radius: 40px;
+}
+
+.contact h2{
+    margin-bottom: 3rem;
+    color: rgb(255, 255, 255);
+}
+
+.contact form{
+    max-width: 80rem;
+    margin: 1rem auto;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.contact form .input-box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contact form .input-box input,
+.contact form textarea{
+    width: 100%;
+    padding: 1.5rem;
+    font-size: 1.6rem;
+    color: rgb(0, 0, 0);
+    background-color: rgb(47, 46, 46);
+    border-radius: 0.8rem;
+    border: 0.25rem solid rgb(88, 91, 91);
+    margin: 0.7rem;
+    resize: none;
+}
+
+.contact form .input-box input{
+    width: 49%;
+    margin: 0.7rem 0.35rem;
+}
+
+.contact form .btn{
+    margin-top: 2rem;
 }
 
 .social-icons a{
