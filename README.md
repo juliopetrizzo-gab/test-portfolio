@@ -26,8 +26,11 @@ FONT AWESOME
 🔥 Informações Extras 🔥
 
 Título do Projeto: Portfólio JP
+
 Discente: Julio César Albuquerque do Nascimento
+
 Curso: Análise e Desenvolvimento de Sistemas/1° Período
+
 Link do projeto no Site hospedeiro: https://6927658f6d1ec634fc3240bd--exquisite-sundae-681fc8.netlify.app/ 
 
 
