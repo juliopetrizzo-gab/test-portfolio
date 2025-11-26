@@ -33,4 +33,6 @@ Curso: Análise e Desenvolvimento de Sistemas/1° Período
 
 Link do projeto no Site hospedeiro: https://personal-test-portfolio.netlify.app/
 
+Link do projeto no GitHub: https://github.com/juliopetrizzo-gab/test-portfolio
+
 
